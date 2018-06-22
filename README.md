@@ -34,9 +34,15 @@ For guitarists, this site can be used as a rudimentary theory tool and also illu
 * Bootstrap 3.3.7
 * jQuery 3.3.1
 
+## Known Bugs
+
+* When site is hosted online, the links to the files break because the naming convention used capital letters.
+
 ## Links
 
-* https://github.com/scottafraser/teamweek1
+* https://github.com/eshull/chordprogressiongenerator
+
+* https://eshull.github.io/chordprogressiongenerator/
 
 ## License
 
